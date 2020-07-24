@@ -1,0 +1,203 @@
+ 
+    .h1
+    {
+      color:#1896A2;
+       text-align: center; 
+      padding-top : 20px;
+    }
+    #h3
+    {
+      color:#1A4CA4 ;
+      margin-top:40px;
+      margin-bottom:40px;
+    }
+    .i1
+   {
+     height:10px;
+     width:10px;
+   }
+    .button
+    {
+      
+      background-color: #1896A2;
+      border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 4px 2px;
+      cursor: pointer;
+    }
+    #button1
+    {
+      background-color: #5C4195;
+      margin-top:20px;
+    }
+    
+    #b
+    {
+      text-align: center; 
+    }
+  
+    #dh1
+    {
+      background-color: #CDDCF6;
+      height: 100px;
+    }
+    .input
+    {
+       border: 1px solid #ccc;
+       border-radius: 4px;
+       box-sizing: border-box;
+       height:35px;
+       width:30%;
+    }
+    #SP
+    {
+      margin-top:50px;
+      padding-top:100px;
+      padding-left:100px;
+      background-color:#347992;
+      width:100%;
+      height:100%;
+      display:none;
+    }
+
+    #TP
+    {
+      background-color:#347992 ;
+      width:100%;
+      height:100%;
+      display: none;
+      margin-top: 100px;
+    }
+    #fname
+    {
+      margin-bottom : 20px;
+      margin-right:20px;
+    }
+    #email
+    {
+      margin-bottom : 30px;
+      margin-right:20px;
+    }
+    #lbchk
+    {
+      font-size: 20px;
+      color: white;
+      background-color: #2C0D6F ;
+    }
+
+    #email1
+    {
+      margin-top: 50px;
+      margin-left:1%;
+    }
+
+    #pass1
+    {
+        margin-top: 50px;  
+        margin-left:3%;
+    }
+
+    #button2
+    {
+      margin-top: 30px;
+      margin-left:34%;
+    }
+    #FPh1
+    {
+      background-color: #CDDCF6;
+      height: 100px;
+    }
+    #FourP
+    {
+      display: none;
+    }
+    .hh
+    {
+      color:#065157;
+      padding-left:100px;
+      padding-right: 100px;
+      padding-bottom: 20px;
+    }
+    .div
+    {
+      margin-top:20px;
+       width:auto;
+      height:auto;
+      background-color:#CDDCF6;
+      border: 1px solid #ccc;
+       border-radius: 4px;
+       box-sizing: border-box;
+       float:left;
+       text-align: center;
+     }
+    #second
+    {
+      margin-left:50px;
+    }
+
+    #third
+    {
+      /*margin-left:10%;*/
+    }
+    
+    #button3
+    {
+      background-color: #5C4195;
+      margin-top:20px;
+    }
+     #button4
+    {
+      background-color: #5C4195;
+      margin-top:20px;
+      margin-left:170px;
+      display:none;
+    }
+
+    #txt1
+    {
+      margin-left:50px;
+      /* display:none; */
+    }
+    
+    #lbchk1
+    {
+      font-size: 20px;
+      color:black;
+    }
+
+    .list
+    {
+      height:auto;
+      border:1px solid #ccc;
+       border-radius: 4px;
+       box-sizing: border-box;
+       background-color:white;
+       /*background-color: white;*/
+       margin-bottom : 20px;
+    }
+/* 
+    #t
+    {
+      display:none;
+    } */
+
+    #bdiv
+    {
+     
+      float:right;
+    }
+    #fiveP
+    {
+      margin-top:50px;
+      padding-top:100px;
+      padding-left:100px;
+      background-color:#347992;
+      width:100%;
+      height:100%;
+      display:none;
+    }
